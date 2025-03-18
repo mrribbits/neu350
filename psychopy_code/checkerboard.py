@@ -3,9 +3,9 @@ from psychopy.monitors import Monitor  # import Monitor correctly
 import numpy as np
 plugins.activatePlugins()
 
-import Prisma_config_1 as room_config
-room_config.ApplyMonitorConfig()
-room_config.ApplyEyeLinkDefaults()
+#import Prisma_config_1 as room_config
+#room_config.ApplyMonitorConfig()
+#room_config.ApplyEyeLinkDefaults()
 
 # === Experiment Parameters ===
 wait_for_trigger = True  # Set to True if waiting for MRI trigger
