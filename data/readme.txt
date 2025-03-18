@@ -8,14 +8,20 @@ Additional data sets for 2025 precepts:
 #Structurals
 https://github.com/mrribbits/neu350/blob/main/data/sub-01/sub-01_ses-01_desc-preproc_T1w_defaced.nii.gz?raw=true
 https://github.com/mrribbits/neu350/blob/main/data/sub-02/sub-02_ses-01_desc-preproc_T1w_defaced.nii.gz?raw=true
+https://github.com/mrribbits/neu350/blob/main/data/sub-03/sub-03_ses-01_desc-preproc_T1w_defaced.nii.gz?raw=true
+https://github.com/mrribbits/neu350/blob/main/data/sub-04/sub-04_ses-01_desc-preproc_T1w_defaced.nii.gz?raw=true
 
 #Functionals
 https://github.com/mrribbits/neu350/blob/main/data/sub-01/sub-01_ses-01_task-radialstimulus_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz?raw=true
 https://github.com/mrribbits/neu350/blob/main/data/sub-02/sub-02_ses-01_task-radialstimulus_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz?raw=true
+https://github.com/mrribbits/neu350/blob/main/data/sub-03/sub-03_ses-01_task-radialstimulus_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz?raw=true
+https://github.com/mrribbits/neu350/blob/main/data/sub-04/sub-04_ses-01_task-radialstimulus_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz?raw=true
 
 #Brain-only masks
 https://github.com/mrribbits/neu350/blob/main/data/sub-01/sub-01_ses-01_task-radialstimulus_run-1_space-MNI152NLin2009cAsym_desc-brain_mask.nii.gz?raw=true
 https://github.com/mrribbits/neu350/blob/main/data/sub-02/sub-02_ses-01_task-radialstimulus_run-1_space-MNI152NLin2009cAsym_desc-brain_mask.nii.gz?raw=true
+https://github.com/mrribbits/neu350/blob/main/data/sub-03/sub-03_ses-01_task-radialstimulus_run-1_space-MNI152NLin2009cAsym_desc-brain_mask.nii.gz?raw=true
+https://github.com/mrribbits/neu350/blob/main/data/sub-04/sub-04_ses-01_task-radialstimulus_run-1_space-MNI152NLin2009cAsym_desc-brain_mask.nii.gz?raw=true
 
 #V1V2 mask (in MNI space)
 https://github.com/mrribbits/neu350/blob/main/data/V1V2.nii.gz?raw=true
