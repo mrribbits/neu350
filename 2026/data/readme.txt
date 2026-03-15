@@ -15,4 +15,5 @@ Student datasets for 2026 precepts:
 
 
 #V1V2 mask (in MNI space)
+https://github.com/mrribbits/neu350/blob/main/2026/data/V1V2.nii.gz?raw=true
 
